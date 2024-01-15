@@ -218,12 +218,6 @@ class Figure:
 
 
 
-
-
-
-
-
-
 def png_to_mp4(fold, title='video', fps=36, digit_format='04d', res=None, resize_factor=1, custom_bitrate=None, extension='.jpg'):
 
     # Get a list of all .png files in the directory
